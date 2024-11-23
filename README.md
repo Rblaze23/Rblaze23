@@ -3,18 +3,30 @@
 ---
 
 ## 🔍 About Me
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<div>
+  
 - 🎓 Currently pursuing a **Master's in Big Data & AI** at **Dauphine Paris University**.  
 - 💻 Experienced in **software development** and skilled in designing, testing, and debugging software systems.  
 - 🤝 Open to collaborating on **Data Science, Machine Learning**, and **AI-driven projects**.  
-- 🌱 Constantly exploring the latest advancements in **data analysis** and **AI frameworks**.  
+- 🌱 Constantly exploring the latest advancements in **data analysis** and **AI frameworks**.
 
----
+</div>
+
+<div align="right">
+  <img src="https://media.giphy.com/media/OZvqlLhnyvWZnqXJSF/giphy.gif" alt="Scared Terrified Cyberpunk Edgerunners" width="250" />
+</div>
+
+</div>
 
 ## 🛠️ Skills & Tools
 
 ### **Programming Languages**
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src
+="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
@@ -71,8 +83,9 @@
 When I’m not coding, I enjoy exploring **F1 analytics** and researching the intersection of **AI and sports**.
 
 ---
+
 <div align="center">
-  <img src="https://media.giphy.com/media/OZvqlLhnyvWZnqXJSF/giphy.gif" alt="Scared Terrified Cyberpunk Edgerunners" width="480" />
+  <img src="https://media.giphy.com/media/36keVNMOZWlZvqdRG1/giphy.gif" alt="Cyberpunk Edgerunners Let Me Work With You" width="480" />
 </div>
 
 
