@@ -71,8 +71,9 @@
 When I’m not coding, I enjoy exploring **F1 analytics** and researching the intersection of **AI and sports**.
 
 ---
-
-<img src="https://media.giphy.com/media/IgAGgItIvkDQmUkGLm/giphy.gif" width="480" height="269" style="" alt="fun gif" />
+<div align="center">
+  <img src="https://media.giphy.com/media/IgAGgItIvkDQmUkGLm/giphy.gif" width="480" height="269" alt="fun gif" />
+</div>
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you're interested in collaborating or discussing data science ideas. 😊
 
