@@ -72,8 +72,10 @@ When I’m not coding, I enjoy exploring **F1 analytics** and researching the in
 
 ---
 <div align="center">
-  <img src="https://media.giphy.com/media/IgAGgItIvkDQmUkGLm/giphy.gif" width="480" height="269" alt="fun gif" />
+  <img src="https://media.giphy.com/media/OZvqlLhnyvWZnqXJSF/giphy.gif" alt="Scared Terrified Cyberpunk Edgerunners" width="480" />
 </div>
+
+
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you're interested in collaborating or discussing data science ideas. 😊
 
