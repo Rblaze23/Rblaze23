@@ -15,6 +15,7 @@
 ### **Programming Languages**
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" />
@@ -43,8 +44,8 @@
 
 ## 📊 Stats Dashboard
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rblaze23&show_icons=true&theme=radical" alt="Ramy's GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rblaze23&theme=radical" alt="Ramy's GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rblaze23&show_icons=true&theme=tokyonight" alt="Ramy's GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rblaze23&theme=tokyonight" alt="Ramy's GitHub Streak" height="150"/>
 </div>
 
 ---
