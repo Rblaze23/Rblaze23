@@ -71,11 +71,33 @@
 ---
 
 ## 📬 Let's Connect!
-<div align="center">
-  <a href="https://www.linkedin.com/in/ramy-lazghab-1464a8201/"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="35" alt="linkedin logo" /></a>
-  <a href="mailto:ramy.lazghab@dauphine.tn"><img src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000" height="35" alt="email logo" /></a>
-  <a href="https://x.com/Blazehere23"><img src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" height="35" alt="X logo" /></a>
+<div align="center" style="display: flex; gap: 5px; justify-content: center; align-items: center; margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/ramy-lazghab-1464a8201/" target="_blank" title="LinkedIn Profile">
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" 
+         height="40" alt="LinkedIn logo" style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="mailto:ramy.lazghab@dauphine.tn" title="Send an Email">
+    <img src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000" 
+         height="40" alt="Email logo" style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a> 
+  <a href="https://x.com/Blazehere23" target="_blank" title="X (Twitter) Profile">
+    <img src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" 
+         height="40" alt="X logo" style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://rblaze23.github.io/Portfolio/" target="_blank" title="Visit My Portfolio">
+    <img src="https://img.icons8.com/?size=100&id=64007&format=png&color=000000" 
+         height="40" alt="Portfolio logo" style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
 </div>
+
 
 ---
 
