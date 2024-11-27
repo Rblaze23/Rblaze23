@@ -56,7 +56,6 @@
 ## 📊 Stats Dashboard
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rblaze23&show_icons=true&theme=tokyonight" alt="Ramy's GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rblaze23&theme=tokyonight" alt="Ramy's GitHub Streak" height="150"/>
 </div>
 
 ---
