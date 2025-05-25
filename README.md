@@ -83,7 +83,7 @@
          onmouseover="this.style.transform='scale(1.2)'" 
          onmouseout="this.style.transform='scale(1)'"/>
   </a> 
-  <a href="https://x.com/Blazehere23" target="_blank" title="X (Twitter) Profile">
+  <a href="https://x.com/NightOwlx23" target="_blank" title="X (Twitter) Profile">
     <img src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" 
          height="40" alt="X logo" style="transition: transform 0.3s;" 
          onmouseover="this.style.transform='scale(1.2)'" 
