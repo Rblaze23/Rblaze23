@@ -61,11 +61,7 @@
 ---
 
 ## 🎯 Current Projects
-- **Startup Investment Recommendation Program**  
-  Using Word2Vec and advanced data analysis to help investors choose the best startups.
-
-- **Data Science Projects**  
-  Exploring **PCA & ACM** and analyzing career satisfaction.
+- **:)**  
 
 ---
 
