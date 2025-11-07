@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋🏻! My name is Ramy Lazghab and I'm a Data Science & AI enthusiast</h2>
+<h2 align="left">Hi 👋🏻! My name is Ramy Lazghab and I'm a Data Science & AI Engineer student</h2>
 
 ---
 
