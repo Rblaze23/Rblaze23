@@ -8,31 +8,21 @@
   <img src="https://media.giphy.com/media/OZvqlLhnyvWZnqXJSF/giphy.gif" alt="Cyberpunk Edgerunners working at console" width="250" />
 </p>
 
-* [cite_start]🎓 Currently pursuing an **M.Sc. in Big Data & AI** at Université Paris Dauphine, specializing in **Generative AI, LLMs, and MLOps**[cite: 4, 33].
-* [cite_start]💡 Hands-on experience developing **Retrieval-Augmented Generation (RAG)** and **multi-agent systems** using LangChain, Hugging Face, and GCP[cite: 5].
+* 🎓 Currently pursuing an **M.Sc. in Big Data & AI** at Université Paris Dauphine, specializing in **Generative AI, LLMs, and MLOps**[cite: 4, 33, 34].
+* [cite_start]💡 Hands-on experience developing **retrieval-augmented** and **multi-agent systems** using LangChain, Hugging Face, and GCP[cite: 5].
 * [cite_start]🎯 Seeking a **6-Month AI Engineer Internship** (LLMs / Agentic AI / MLOps) to deploy scalable AI solutions worldwide[cite: 2, 6].
-* [cite_start]🤝 Open to collaborating on projects involving large language models, agent architecture, and scalable AI deployment[cite: 6].
+* [cite_start]🤝 Experienced in containerizing a full React + Django REST system with Docker and implementing monitoring for scalable deployment[cite: 25].
 
 ---
 
-## 🛠️ Core Technical Stack
+## 🧠 Core Technical Stack
 
-### **AI & ML Frameworks**
-| Frameworks | Libraries & Tools |
+| Category | Technologies |
 | :--- | :--- |
-| **Generative AI** | [cite_start]Hugging Face [cite: 9][cite_start], LangChain [cite: 9][cite_start], Transformers [cite: 9][cite_start], Prompt Engineering [cite: 9] |
-| **Deep Learning** | [cite_start]PyTorch [cite: 9][cite_start], TensorFlow [cite: 9][cite_start], scikit-learn [cite: 9] |
-
-### **MLOps, Cloud & Data**
-| Area | Technologies |
-| :--- | :--- |
-| **MLOps & CI/CD** | [cite_start]Docker [cite: 9][cite_start], Git [cite: 9][cite_start], MLflow [cite: 9][cite_start], CI/CD (GitHub Actions) [cite: 9] |
-| **Cloud Computing** | [cite_start]**Vertex AI** [cite: 9][cite_start], BigQuery [cite: 9][cite_start], Cloud Run [cite: 9][cite_start], Azure (Exposure) [cite: 9] |
-| **Data Engineering** | [cite_start]Pandas [cite: 9][cite_start], NumPy [cite: 9][cite_start], Spark [cite: 9][cite_start], PostgreSQL [cite: 9] |
-| **Vector Databases** | [cite_start]FAISS/Qdrant [cite: 9][cite_start], Vector Databases [cite: 9] |
-
-### **Languages**
-* [cite_start]**Python (Expert)** [cite: 8][cite_start], Java [cite: 8][cite_start], C [cite: 8][cite_start], R [cite: 8][cite_start], SQL [cite: 8][cite_start], JavaScript[cite: 8].
+| **AI & ML Frameworks** | [cite_start]PyTorch, **TensorFlow**, **Hugging Face**, **LangChain**, scikit-learn, XGBoost, Transformers [cite: 9] |
+| **MLOps & Cloud** | [cite_start]**Docker**, Git, **MLflow**, **Vertex AI**, BigQuery, Cloud Run, Azure (Exposure), Streamlit [cite: 9] |
+| **Data & Vector DBs** | [cite_start]**Pandas**, **NumPy**, Spark, PostgreSQL, Django REST, **FAISS/Qdrant**, Vector Databases [cite: 9] |
+| **Languages** | [cite_start]**Python (Expert)**, Java, C, R, SQL, JavaScript [cite: 8] |
 
 ---
 
@@ -41,12 +31,11 @@
 ### **1. TelecomPlus Multi-Agent Support System**
 * [cite_start]Designed a multi-agent architecture combining **RAG over PDF FAQs** and SQL data access, orchestrated by **LangChain**[cite: 11].
 * [cite_start]Implemented LLM-as-a-judge for **evaluation** and **monitoring** through Langfuse / MLflow[cite: 12].
-* [cite_start]*Key Tools:* LangChain, OpenAI API, Qdrant[cite: 13].
+* [cite_start]*Key Tools:* LangChain, OpenAI API, Qdrant, Streamlit[cite: 13].
 
 ### **2. RAGenius (LLM-Powered Research Assistant)**
-* [cite_start]Developed an LLM research assistant for CSV/PDF analysis[cite: 14].
-* [cite_start]Optimized retrieval, achieving **92% precision** on complex QA[cite: 14].
-* [cite_start]*Key Tools:* LangChain, Hugging Face[cite: 15].
+* [cite_start]Developed an LLM research assistant for CSV/PDF analysis; optimized retrieval, achieving **92% precision** on complex QA[cite: 14].
+* [cite_start]*Key Tools:* LangChain, Hugging Face, Qdrant, Python[cite: 15].
 
 ### **3. Movie Recommendation System on GCP (End-to-End MLOps)**
 * [cite_start]Built an end-to-end personalized recommender using BigQuery + Vertex AI + Cloud Run[cite: 16].
@@ -58,7 +47,7 @@
 
 * [cite_start]**LangChain Certified** (LangChain Academy) [cite: 39]
 * [cite_start]**Google Cloud Certified Data & AI Fundamentals** [cite: 40]
-* [cite_start]**Winner Hack for Good** (MoodSync AI Mental-Health Platform) [cite: 38]
+* [cite_start]**Winner Hack for Good** (MoodSync AI Mental-Health Platform) [cite: 19, 38]
 * [cite_start]Competitor IEEE XTreme 15.0 & 16.0 Programming Contests [cite: 41]
 
 ---
@@ -84,9 +73,6 @@ I am actively seeking an AI Engineer Internship!
   </a>
   <a href="https://github.com/Rblaze23" target="_blank" title="GitHub Profile">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://rblaze23.github.io/RamyLazghab/" target="_blank" title="Visit My Portfolio">
-    <img src="https://img.icons8.com/?size=100&id=64007&format=png&color=000000" height="40" alt="Portfolio logo" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </p>
 
