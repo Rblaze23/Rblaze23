@@ -1,94 +1,129 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=600&lines=Hi+I'm+Ramy+Lazghab+👋🏻;Data+Science+%26+AI+Engineer+Student;LLM+%7C+RAG+%7C+Agentic+AI+%7C+MLOps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=650&lines=Hi+I'm+Ramy+Lazghab+%F0%9F%91%8B%F0%9F%8F%BB;AI+%26+Machine+Learning+Engineer;LLM+%7C+RAG+%7C+Agentic+AI+%7C+MLOps" />
 </h1>
 
-<h2 align="center">🚀 Building Real-World AI Systems for Impact</h2>
+<h2 align="center">🚀 I build AI systems that make it to production</h2>
+
+<p align="center">
+  <a href="https://rblaze23.github.io/RamyLazghab/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ramy-lazghab-1464a8201/">LinkedIn</a> •
+  <a href="mailto:ramy.lazghab@dauphine.eu">Email</a>
+</p>
 
 ---
 
 ## 🔍 About Me
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<table>
+<tr>
+<td valign="top">
 
-<div>
+- 🤖 **AI Engineer** working on **LLM, agentic and RAG systems** in production
+- 🎓 Finishing my **M.Sc. Data Science & AI** at **Université Paris Dauphine – PSL**
+- 🧠 Currently: a **six-agent LLM pipeline** that turns messy client documents into complete regulatory dossiers, now shipped into a production platform
+- 📊 Also built a **regulatory risk forecasting model** (XGBoost + LightGBM, calibrated, SHAP) and a **monitoring tool** where every claim links to its source
+- ⚙️ Comfortable end to end: model → backend → deployment
+- 🎯 **Open to full-time AI/ML engineering roles from October 2026** (Europe, open to relocation)
 
-- 🎓 Master’s Student in **Big Data & AI** at **Université Paris Dauphine**  
-- 🤖 Focused on **LLMs, RAG pipelines, multi-agent systems & production ML**  
-- 🧠 Experienced with **LangChain, Hugging Face, cloud deployment & full ML lifecycle**  
-- ⚙️ Strong foundation in **software engineering and backend architecture**  
-- 🤝 Passionate about impactful AI applications, research, and collaborations  
-
-</div>
-
-<div align="right">
+</td>
+<td align="right" width="270">
   <img src="https://media.giphy.com/media/OZvqlLhnyvWZnqXJSF/giphy.gif" width="250" />
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧠 Tech Stack
 
-### 🧩 Programming
+### 🧩 Languages
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+### 🤖 AI / LLM
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
-  <img src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" />
+  <img src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
 </p>
 
-### 🐳 Data & DevOps
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XGBoost-EB5B25?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS%20%7C%20Qdrant-0F172A?style=for-the-badge" />
+</p>
+
+### 🐳 MLOps, Cloud & Data
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 Featured & Current Projects
+## 🚀 Featured Projects
 
-✔️ Multi-agent AI telecom support system  
-✔️ RAG research assistant over CSV & PDFs  
-✔️ Cloud-based recommendation system (GCP deployment)  
-✔️ MoodSync – real-time emotional AI therapy system  
-✔️ Sports analytics system using computer vision  
+| Project | What it does | Stack |
+|---|---|---|
+| **[TelecomPlus](PASTE_REPO_LINK)** | Multi-agent customer support: a router sends each question to a RAG agent or a SQL agent, with LLM-as-a-Judge evaluation | LangChain, LangGraph, FAISS, PostgreSQL |
+| **[RAGenius](PASTE_REPO_LINK)** | Research assistant answering questions over PDF and CSV files through semantic retrieval | LangChain, Hugging Face, FAISS |
+| **[Movie Recommender](PASTE_REPO_LINK)** | End-to-end recommendation system on GCP, served as a REST API | BigQuery ML, Vertex AI, Cloud Run |
+| **[Alzheimer's Prediction](PASTE_REPO_LINK)** | XGBoost + deep learning ensemble for early diagnosis, with SHAP for clinical interpretability | PyTorch, XGBoost, SHAP |
+| **[MoodSync](PASTE_REPO_LINK)** | Real-time emotion-aware assistant — 🏆 winner, Hack for Good | Python, NLP |
+| **[SportiQ](PASTE_REPO_LINK)** | Sports analytics with computer vision | Python, OpenCV |
+
+---
+
+## 🏆 Achievements
+
+- 🥉 **3rd place**, RAISE Summit AI Hackathon, Paris
+- 🏆 **Winner**, Hack for Good (MoodSync)
+- 💻 **IEEE Xtreme** 15.0 & 16.0
+- 📜 **LangChain Academy** certified · **Google Cloud, BigQuery ML** certified
 
 ---
 
 ## 🌐 What Drives Me
 
-I’m passionate about:
-
-- Building **AI that solves real-world problems**
-- Deploying machine learning models in production  
-- Exploring how **LLMs, agents and retrieval** can transform product experiences  
-- Turning ideas into **scalable AI systems with lasting impact**
+- Building **AI that solves real problems**, not demos
+- Making LLM systems **reliable**: evaluation, benchmarks, grounded answers
+- Taking models **all the way to production**
+- Turning ideas into **systems people actually use**
 
 ---
 
 ## 📬 Connect With Me
 
-<div align="center" style="display:flex;gap:10px;justify-content:center;margin-top:20px;">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/ramy-lazghab-1464a8201/" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="45" />
 </a>
 
-<a href="mailto:ramy.lazghab@dauphine.tn">
+<a href="mailto:ramy.lazghab@dauphine.eu">
   <img src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000" height="45" />
 </a>
 
