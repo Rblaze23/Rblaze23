@@ -91,10 +91,9 @@
 | **[TelecomPlus](https://github.com/Rblaze23/Telecomplus-agent)** | Multi-agent customer support: a router sends each question to a RAG agent or a SQL agent, with LLM-as-a-Judge evaluation | LangChain, LangGraph, FAISS, PostgreSQL |
 | **[RAGenius](https://github.com/Rblaze23/RAGenius)** | Research assistant answering questions over PDF and CSV files through semantic retrieval | LangChain, Hugging Face, FAISS |
 | **[Movie Recommender](https://github.com/Rblaze23/GCP-Personalized-Movie-Recommendation-System)** | End-to-end recommendation system on GCP, served as a REST API | BigQuery ML, Vertex AI, Cloud Run |
-| **[Alzheimer's Prediction](PASTE_REPO_LINK)** | XGBoost + deep learning ensemble for early diagnosis, with SHAP for clinical interpretability | PyTorch, XGBoost, SHAP |
 | **[MoodSync](https://github.com/Rblaze23/MoodSync)** | Real-time emotion-aware assistant — 🏆 winner, Hack for Good | Python, NLP |
 | **[SportiQ](https://github.com/Rblaze23/SportiQ)** | Sports analytics with computer vision | Python, OpenCV |
-| **[LLM Assisted Query generation](https://github.com/Rblaze23/LLM-Assisted_Query_Generation)** |
+| **[LLM Assisted Query generation](https://github.com/Rblaze23/LLM-Assisted_Query_Generation)** |LLM-powered query generation platform that converts natural language requests into executable queries across multiple database technologies and query languages, including SQL, Cypher (Neo4j), and other domain-specific syntaxesLLM-powered query generation platform that converts natural language requests into executable queries across multiple database technologies and query languages, including SQL, Cypher (Neo4j), and other domain-specific syntaxes| Python |
 
 ---
 
